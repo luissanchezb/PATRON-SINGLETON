@@ -1,0 +1,30 @@
+C:\Users\Luis\source\repos\PatronSingleton\PatronSingleton\bin\Debug\net6.0\PatronSingleton.exe
+C:\Users\Luis\source\repos\PatronSingleton\PatronSingleton\bin\Debug\net6.0\PatronSingleton.deps.json
+C:\Users\Luis\source\repos\PatronSingleton\PatronSingleton\bin\Debug\net6.0\PatronSingleton.runtimeconfig.json
+C:\Users\Luis\source\repos\PatronSingleton\PatronSingleton\bin\Debug\net6.0\PatronSingleton.dll
+C:\Users\Luis\source\repos\PatronSingleton\PatronSingleton\bin\Debug\net6.0\ref\PatronSingleton.dll
+C:\Users\Luis\source\repos\PatronSingleton\PatronSingleton\bin\Debug\net6.0\PatronSingleton.pdb
+C:\Users\Luis\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.AssemblyInfo.cs
+C:\Users\Luis\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.dll
+C:\Users\Luis\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net6.0\ref\PatronSingleton.dll
+C:\Users\Luis\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.pdb
+C:\Users\Luis\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.genruntimeconfig.cache
+C:\Users\Luis\Desktop\EXAMEN POO\PatronSingleton\PatronSingleton\bin\Debug\net6.0\PatronSingleton.exe
+C:\Users\Luis\Desktop\EXAMEN POO\PatronSingleton\PatronSingleton\bin\Debug\net6.0\PatronSingleton.deps.json
+C:\Users\Luis\Desktop\EXAMEN POO\PatronSingleton\PatronSingleton\bin\Debug\net6.0\PatronSingleton.runtimeconfig.json
+C:\Users\Luis\Desktop\EXAMEN POO\PatronSingleton\PatronSingleton\bin\Debug\net6.0\PatronSingleton.dll
+C:\Users\Luis\Desktop\EXAMEN POO\PatronSingleton\PatronSingleton\bin\Debug\net6.0\ref\PatronSingleton.dll
+C:\Users\Luis\Desktop\EXAMEN POO\PatronSingleton\PatronSingleton\bin\Debug\net6.0\PatronSingleton.pdb
+C:\Users\Luis\Desktop\EXAMEN POO\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\EXAMEN POO\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\EXAMEN POO\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\EXAMEN POO\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.AssemblyInfo.cs
+C:\Users\Luis\Desktop\EXAMEN POO\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\EXAMEN POO\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.dll
+C:\Users\Luis\Desktop\EXAMEN POO\PatronSingleton\PatronSingleton\obj\Debug\net6.0\ref\PatronSingleton.dll
+C:\Users\Luis\Desktop\EXAMEN POO\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.pdb
+C:\Users\Luis\Desktop\EXAMEN POO\PatronSingleton\PatronSingleton\obj\Debug\net6.0\PatronSingleton.genruntimeconfig.cache
